@@ -5,4 +5,4 @@
 
 ## My current GitHub streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FelBenini)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FelBenini&theme=holi-theme)](https://git.io/streak-stats)
