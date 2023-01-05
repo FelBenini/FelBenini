@@ -1,13 +1,8 @@
-<h1>
-Hey there!
-</h1>
-<h3>
-I am Felipe Benini, a web developer passionated about a lot of things that love studying about web development and new technologies.
-</h3>
-<div style="margin-top: 15px">
-  <ul>👀 Currently looking for a first job oportunity in the area</ul>
-<ul>✍ Currently learning React</ul>
-<ul>📩 You can reach me at: felbenini@gmail.com</ul>
-<ul>😃 Pronouns he/him</ul>
-[![GitHub Streak](https://streak-stats.demolab.com?user=FelBenini&theme=holi-theme)](https://git.io/streak-stats)
-</div>
+# Hey there!
+
+### My name is Felipe Benini, I am a full stack developer based on Brazil!
+- Looking forward to code even more in 2023 😎
+
+## My current GitHub streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FelBenini)](https://git.io/streak-stats)
