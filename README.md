@@ -4,8 +4,6 @@
 <img src='https://github.com/FelBenini/FelBenini/blob/main/banner%20github.png?raw=true' alt='github banner felipe benini' style='width: 80%;'>
 
   <h3> My name is Felipe Benini, I am a full stack developer based on Brazil!</h3><br>
-  <p>Looking forward to code even more in 2023 😎</p>
-  <p>And looking for my first job as a full stack engineer!</p>
   <h2>Languages and Tools:</h2>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
